@@ -1,4 +1,4 @@
-# XiongHaiZi
+# XiongHaiZi$测试分支
 欢迎光临[熊孩子工作室](https://github.com/wyc29/XiongHaiZi)！
 ## 推荐的项目：
 ### 1 无
